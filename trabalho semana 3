@@ -1,0 +1,24 @@
+a. A relação entre a LGPD e os Data Centers no Brasil:
+ A Lei Geral de Proteção de Dados tem um impacto significativo nos data centers no Brasil. A LGPD influencia diretamente as operações e a gestão dos data centers, promovendo um ambiente mais seguro e responsável para o tratamento de dados pessoais. O descumprimento dessa lei pode resultar em sanções severas, incluindo multas que podem chegar a R$ 50 milhões por infração. Portanto, é vital que os data centers adotem todas as medidas necessárias para evitar essas penalidades
+LGPD para Data Centers: impactos e sanções sobre o tráfego de dados (odatacolocation.com)
+b. Formatos de arquivos de dados proprietários e abertos
+ Formato de arquivo é a forma como um arquivo é armazenado no computador e reconhecido por ele. 
+ Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso. O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas.
+ Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
+  Enquanto o formato opensource pode ser lido ou editado por qualquer aplicativo, o formato proprietárioo aberto pode ser alterado apenas com o programa proprietário.
+Formatos abertos e formatos proprietários: como funciona e como é constituído o arquivo IFC - BibLus (accasoftware.com)
+b.1 forneça exemplos de formatos
+JSON é um formato de arquivos simples que é muito fácil de ler em qualquer linguagem de programação. 
+XML é um formato amplamente utilizado para intercâmbio de dados porque proporciona boas oportunidades para guardar a estrutura nos dados e na maneira pela qual os arquivos são construídos
+Um formato chamado RDF, recomendado pelo W3C, torna possível representar dados numa forma mais fácil para combinar informações de múltiplas fontes. Dados RDF podem ser armazenados em XML e JSON, além de outras serializações.
+Planilhas: Muitos órgãos públicos têm informações armazenadas em planilhas, por exemplo Microsoft Excel. Esses dados podem ser usados imediatamente com as descrições corretas do que as diferentes colunas significam.
+Formatos de Arquivo (opendatahandbook.org)
+
+b.2 discuta as implicações relacionadas a dados públicos
+A discussão sobre dados públicos abrange várias dimensões, incluindo aspectos legais, éticos, econômicos e sociais
+Dados públicos são informações coletadas e armazenadas por órgãos governamentais que estão disponíveis para acesso e utilização pela população em geral
+ Eles podem abranger uma ampla variedade de temas, desde estatísticas demográficas até relatórios financeiros de instituições governamentais. Esses dados são considerados públicos porque são de interesse coletivo e devem estar acessíveis a todos, sem restrições indevidas.
+Uma das maneiras mais comuns de acessar os dados públicos é por meio dos portais de transparência governamentais. Esses portais reúnem uma variedade de informações em um único local, facilitando o acesso e a busca por dados específicos. Além disso, muitos órgãos governamentais disponibilizam seus dados em formatos abertos, permitindo que sejam reutilizados e analisados de diferentes maneiras.
+Os dados públicos: descubra o que são e como acessá-los legalmente (reyabogado.com)
+
+
