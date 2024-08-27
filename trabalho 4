@@ -1,0 +1,24 @@
+1.	Explique as diferenças entre 3 linguagens de programação
+
+•	Python: Focado em simplicidade e produtividade, ideal para desenvolvimento rápido e aplicações de alto nível como ciência de dados e web.
+•	Java: Oferece uma estrutura robusta e portabilidade, adequado para desenvolvimento de grandes sistemas corporativos e aplicações móveis.
+•	C++: Fornece controle detalhado e alta performance, usado em áreas onde a eficiência é crítica, como sistemas e jogos.
+Cada linguagem tem suas próprias forças e fraquezas, e a escolha entre elas depende das necessidades específicas do projeto e das preferências dos desenvolvedores.
+
+A. Tente fazer um código mínimo em cada uma delas
+# Python
+print("Hello, World!")
+
+// JavaScript
+console.log("Hello, World!");
+
+// C#
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
