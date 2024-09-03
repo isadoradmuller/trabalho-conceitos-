@@ -1,0 +1,34 @@
+import random
+
+def sorteador():
+    # Solicita ao usuário o valor máximo do intervalo
+    x = int(input("Digite o valor máximo do intervalo (x): "))
+    
+    # Verifica se o valor máximo é válido
+    if x <= 0:
+        print("O valor máximo deve ser maior que zero.")
+        return
+
+    # Solicita ao usuário quantos números deseja sortear
+    quantidade = int(input("Quantos números você deseja sortear? "))
+
+    # Verifica se a quantidade é válida
+    if quantidade <= 0:
+        print("A quantidade de números deve ser maior que zero.")
+        return
+    
+    # Verifica se a quantidade solicitada é maior que o intervalo disponível
+    if quantidade > x + 1:
+        print(f"A quantidade solicitada ({quantidade}) é maior do que o intervalo disponível (0 a {x}).")
+        return
+
+    # Gera a lista de números sorteados
+    numeros_sorteados = random.sample(range(0, x + 1), quantidade)
+
+    # Exibe os números sorteados
+    print("Números sorteados:")
+    for numero in numeros_sorteados:
+        print(numero)
+
+# Chama a função para executar o sorteio
+sorteador()
