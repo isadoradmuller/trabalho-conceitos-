@@ -1,0 +1,23 @@
+def extrair_vogais(texto):
+    # Definir o conjunto de vogais (tanto maiúsculas quanto minúsculas)
+    vogais = "aeiouAEIOU"
+    
+    # Usar uma compreensão de lista para filtrar apenas as vogais
+    resultado = [caractere for caractere in texto if caractere in vogais]
+    
+    # Converter a lista de vogais em uma string
+    return ''.join(resultado)
+
+# Exemplo de uso
+frase = "Olá, como você está?"
+print("Frase original:", frase)
+print("Vogais extraídas:", extrair_vogais(frase))
+
+
+
+Frase original: Olá, como você está?
+Vogais extraídas: Ooooe
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
