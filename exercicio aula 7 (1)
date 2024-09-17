@@ -1,0 +1,4 @@
+def imprimir_informacoes(nome, idade, cidade):
+    print(f"Nome: {nome}", end=" - ")
+    print(f"Idade: {idade}", end=" - ")
+    print(f"Cidade: {cidade}!")
